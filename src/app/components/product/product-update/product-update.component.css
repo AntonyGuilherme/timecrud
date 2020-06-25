@@ -1,0 +1,10 @@
+.update{
+    background-color: red;
+    margin-right: 10px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
